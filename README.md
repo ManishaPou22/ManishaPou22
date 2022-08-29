@@ -50,7 +50,7 @@
   different thresholds for Gaussian distributed data.    
   
 ## **Connect with me**
-  
+
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mnsha/)
 <br><br>
 [<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/-Gmail-black?logo=gmail&style=for-the-badge&logoWidth=38" />](mailto:mnsha15@gmail.com")
